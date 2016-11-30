@@ -1,0 +1,67 @@
+[
+    {
+      "City": "Miami Gardens",
+      "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Homestead",
+      "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Aventura",
+      "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Florida City",
+      "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+     },
+    {
+      "City": "Miami Beach",
+      "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+     },
+    {
+      "City": "Florida City",
+      "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Indian Creek",
+      "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Medley",
+      "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Hialeah Gardens",
+     "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Biscayne Park",
+     "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Pinecrest",
+     "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Doral",
+     "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    },
+    {
+      "City": "Miami Lakes",
+     "blogs": ["how to sell your home in","how to buy new home in","how to buy Probates in","how to buy FSBO in"],
+      "county": "Miami-Dade"
+    }
+  ]

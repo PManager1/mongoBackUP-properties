@@ -1,9 +1,9 @@
 
-# ADD   | DEV
+# ADD  ONLY   | DEV
 mongoimport --db mean-dev --collection properties --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
 mongoimport --db mean-dev --collection users --jsonArray --file new_users.json
 
-# ADD   | PROD
+# ADD  ONLY   | PROD
 mongoimport --db mean --collection properties --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
 mongoimport --db mean --collection users --jsonArray --file new_users.json
 
