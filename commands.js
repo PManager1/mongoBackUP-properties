@@ -20,9 +20,18 @@ mongoimport --db mean --collection properties --drop --jsonArray --file /home/ub
 mongoimport --db mean --collection users --drop --jsonArray --file new_users.json
 
 
+#  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT 
 
 # LOCAL - MAC
 
 mongoexport --jsonArray --db mean-dev --collection properties  --out new_properties.json
-
 mongoexport --jsonArray --db mean-dev --collection users  --out new_users.json
+
+mongoexport --jsonArray --db mean-dev --collection articles  --out export-articles.json
+
+# LOCAL IMPORT 
+mongoimport --db mean-dev --collection properties --drop --jsonArray --file export-properties.json
+
+mongoexport --jsonArray --db mean-dev --collection properties  --out export-properties.json
+
+
