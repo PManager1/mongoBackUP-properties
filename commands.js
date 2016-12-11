@@ -30,8 +30,32 @@ mongoexport --jsonArray --db mean-dev --collection users  --out new_users.json
 mongoexport --jsonArray --db mean-dev --collection articles  --out export-articles.json
 
 # LOCAL IMPORT 
+
 mongoimport --db mean-dev --collection properties --drop --jsonArray --file export-properties.json
 
 mongoexport --jsonArray --db mean-dev --collection properties  --out export-properties.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
