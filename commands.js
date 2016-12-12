@@ -28,6 +28,12 @@ mongoimport --db mean-dev --collection users --drop --jsonArray --file new_users
 
 #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT 
 
+
+# PROD 
+
+mongoexport --jsonArray --db mean --collection properties  --out export-12-12.json
+
+
 # LOCAL - MAC
 
 mongoexport --jsonArray --db mean-dev --collection properties  --out new_properties.json
