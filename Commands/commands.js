@@ -1,12 +1,14 @@
+# ADD  ONLY   | PROD
+mongoimport --db mean --collection properties --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
+mongoimport --db mean --collection users --jsonArray --file new_users.json
+
+
 
 # ADD and DROP  | PROD
 mongoimport --db mean --collection properties --drop --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
 mongoimport --db mean --collection users --drop --jsonArray --file new_users.json
 
 
-# ADD  ONLY   | PROD
-mongoimport --db mean --collection properties --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
-mongoimport --db mean --collection users --jsonArray --file new_users.json
 
 
 
