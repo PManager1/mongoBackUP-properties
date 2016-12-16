@@ -239,7 +239,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_weekly",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -280,7 +280,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -321,7 +321,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -362,7 +362,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_Polite",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -403,7 +403,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
 	"call_priority": "Bi_Polite",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -643,7 +643,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_Polite",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -684,7 +684,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "wrong-no",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -725,7 +725,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "erickson"
+	"user_logged_in": "Jay"
 }, {
 	"_id": {
 		"$oid": "584ee5568cde1786b0bb11b3"
@@ -764,7 +764,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "follow-up",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -805,7 +805,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "wrong-no",
-	"user_logged_in": "erickson",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
