@@ -36,7 +36,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "follow-up",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -77,7 +77,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "later",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -118,7 +118,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "follow-up",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -159,7 +159,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "584eca1a8cde1786b0bb11a5"
@@ -197,7 +197,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "wrong-no",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default",
 	"phone_no": "default"
@@ -444,7 +444,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "584ee5568cde1786b0bb11ac"
@@ -483,7 +483,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "584ee5568cde1786b0bb11ad"
@@ -522,7 +522,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "584ee5568cde1786b0bb11ae"
@@ -561,7 +561,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -602,7 +602,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_weekly",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2151,7 +2151,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2192,7 +2192,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2233,7 +2233,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/13/16",
 	"call_priority": "Grey",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2273,7 +2273,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "wrong-no",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default",
 	"phone_no": "default"
@@ -2315,7 +2315,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "585026ab0100ffc41f4330b8"
@@ -2354,7 +2354,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "585026ab0100ffc41f4330b9"
@@ -2393,7 +2393,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/13/16",
 	"call_priority": "Grey",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2433,7 +2433,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "585026ab0100ffc41f4330bb"
@@ -2472,7 +2472,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "585026ab0100ffc41f4330bc"
@@ -2511,7 +2511,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "58514cf226def8be722c08e9"
@@ -2550,7 +2550,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "follow-up",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2591,7 +2591,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2632,7 +2632,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2673,7 +2673,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -2714,7 +2714,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "jp"
+	"user_logged_in": "Jay"
 }, {
 	"_id": {
 		"$oid": "58514cf226def8be722c08ee"
@@ -2753,7 +2753,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "jp"
+	"user_logged_in": "Jay"
 }, {
 	"_id": {
 		"$oid": "58514cf226def8be722c08ef"
@@ -2792,7 +2792,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "jp"
+	"user_logged_in": "Jay"
 }, {
 	"_id": {
 		"$oid": "58514cf226def8be722c08f0"
@@ -2831,7 +2831,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "jp"
+	"user_logged_in": "Jay"
 }, {
 	"_id": {
 		"$oid": "58514cf226def8be722c08f1"
@@ -2870,7 +2870,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "jp"
+	"user_logged_in": "Jay"
 }, {
 	"_id": {
 		"$oid": "58514cf226def8be722c08f2"
@@ -3494,7 +3494,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
-	"user_logged_in": "aaliyah"
+	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
 		"$oid": "5852b6fd8e9c4618a9e91562"
@@ -3519,7 +3519,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "954 4210520",
 	"email_address": "debbieruffino@hotmail.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "954-856-6066",
 	"comments": "Will look into the email-",
 	"county": "Dade",
@@ -3560,7 +3560,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "(954) 346-1622",
 	"email_address": "sgoldpeter@aol.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "954-614-0055",
 	"comments": "610- is the lowest they'll take",
 	"county": "Dade",
@@ -3601,7 +3601,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "954-438-0008",
 	"email_address": "mariaquintana@aol.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "+1 (305) 775-5061",
 	"comments": "-call office number\nConfirm they got email",
 	"county": "Dade",
@@ -3642,7 +3642,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "(954) 874-2252",
 	"email_address": "ROSSANASICCARDI@KEYES.COM",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "cell",
 	"comments": "-",
 	"county": "Dade",
@@ -3683,7 +3683,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "954 7279177",
 	"email_address": "mymortgagebiz@msn.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "cell",
 	"comments": "-",
 	"county": "Dade",
@@ -3724,7 +3724,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "7542042020",
 	"email_address": "jgomezrealestate@gmail.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "cell",
 	"comments": "Resend the email-",
 	"county": "Dade",
@@ -3765,7 +3765,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "(954) 564-8182",
 	"email_address": "joeminotto@gmail.com",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"cell_phone": "cell",
 	"comments": "-",
 	"county": "Dade",
@@ -3804,7 +3804,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "9546534406",
 	"email_address": "novellogroup@kw.com",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"cell_phone": "cell",
 	"comments": "-",
 	"county": "Dade",
@@ -3843,7 +3843,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "954 2902917",
 	"email_address": "valentinatb@aol.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "cell",
 	"comments": "If you are serious about buying the house improve it in the $330's......this house is a great rental, low taxes and no HOA fees\nAll redone inside, huge lot and concrete block construction. Great location\nBest,",
 	"county": "Dade",
@@ -3884,7 +3884,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "954 9201052",
 	"email_address": "dianapitt@yahoo.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "cell",
 	"comments": "-",
 	"county": "Dade",
@@ -3925,7 +3925,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "3059684653",
 	"email_address": "brian@brianleeallen.com",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"cell_phone": "cell",
 	"comments": "-",
 	"county": "Dade",
@@ -3964,7 +3964,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "9542343397",
 	"email_address": "shackpack@bellsouth.net",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"cell_phone": "cell",
 	"comments": "-",
 	"county": "Dade",
@@ -4003,7 +4003,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "954 8719701",
 	"email_address": "Realtorsusanseal@gmail.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "cell",
 	"comments": "She needs time to look into her email -",
 	"county": "Dade",
@@ -4044,7 +4044,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "954 8742227",
 	"email_address": "mikemcdermottgri@gmail.com",
-	"user_logged_in": "aaliyah",
+	"user_logged_in": "Aaliyah",
 	"cell_phone": "cell",
 	"comments": "-",
 	"county": "Dade",
@@ -4083,7 +4083,7 @@
 	"Agent Type": "Agent",
 	"phone_no": "7542042020",
 	"email_address": "jgomezrealestate@gmail.com",
-	"user_logged_in": "jp",
+	"user_logged_in": "Jay",
 	"cell_phone": "cell",
 	"comments": "Resend her the email-\nOffer resent\nCalled but she's wasn't at her desk.",
 	"county": "Dade",
