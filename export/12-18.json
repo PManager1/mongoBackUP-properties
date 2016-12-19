@@ -239,6 +239,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_weekly",
+	"calls_stack": ["12/12/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -280,6 +281,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -321,6 +323,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/12/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -362,6 +365,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_Polite",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -403,6 +407,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
 	"call_priority": "Bi_Polite",
+	"calls_stack": ["12/15/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -561,6 +566,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -602,6 +608,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_weekly",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -643,6 +650,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_Polite",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -764,6 +772,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "follow-up",
+	"calls_stack": ["12/12/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -2471,6 +2480,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "follow-up",
+	"calls_stack": ["12/14/16"],
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -4019,6 +4029,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
 	"call_priority": "Bi_weekly",
+	"calls_stack": ["12/15/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4060,6 +4071,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
 	"call_priority": "Bi_weekly",
+	"calls_stack": ["12/15/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
