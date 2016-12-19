@@ -24,40 +24,7 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
-      "no_of_emails_sent": "1",
-      "last_date_email_open": "-",
-      "no_of_emails_open": "-",
-      "last_date_call_was_made": "-",
-      "call_priority": "-",
-      "user_logged_in": "test"
-    },
-    {
-      "status": "Active",
-      "Folio #": "3.0417E+12",
-      "address": "2900 SW 106TH AVE",
-      "city": "MIAMI",
-      "Zip Code": "33165",
-      "agent_name": "Neyda P. Rodriguez test",
-      "dom": "41",
-      "dates_email_were_sent_on": "-",
-      "listPrice": "281900",
-      "offerPrice": "64.35",
-      "Offer": "181400",
-      "C. Offer": "0",
-      "LU": "0",
-      "C": "N",
-      "P": "N",
-      "E": "N",
-      "A": "N",
-      "Agent Type": "Agent",
-      "phone_no": "(305) 279-3363",
-      "email_address": "bestinservice@yahoo.com",
-      "cell_phone": "-",
-      "comments": "-",
-      "county": "-",
-      "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
@@ -90,13 +57,13 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-",
-      "user_logged_in": "jp"
+      "user_logged_in": "Jay"
     },
     {
       "status": "Active",
@@ -123,13 +90,13 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-",
-      "user_logged_in": "jp"
+      "user_logged_in": "Jay"
     },
     {
       "status": "Active",
@@ -156,13 +123,13 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-",
-      "user_logged_in": "aaliyah"
+      "user_logged_in": "Aaliyah"
     },
     {
       "status": "Active",
@@ -189,13 +156,13 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-",
-      "user_logged_in": "aaliyah"
+      "user_logged_in": "Aaliyah"
     },
     {
       "status": "Active",
@@ -222,13 +189,13 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-",
-      "user_logged_in": "vantull"
+      "user_logged_in": "Vantull"
     },
     {
       "status": "Active",
@@ -255,13 +222,13 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-",
-      "user_logged_in": "vantull"
+      "user_logged_in": "Vantull"
     },
     {
       "status": "Active",
@@ -288,13 +255,13 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-",
-      "user_logged_in": "justin"
+      "user_logged_in": "Justin"
     },
     {
       "status": "Active",
@@ -321,13 +288,13 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-",
-      "user_logged_in": "justin"
+      "user_logged_in": "Justin"
     },
     {
       "status": "Active",
@@ -354,7 +321,7 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
@@ -387,7 +354,7 @@
       "comments": "-",
       "county": "-",
       "owner": "-",
-      "last_date_email_sent_on": "12/10/16",
+      "last_date_email_sent_on": "12/18/16",
       "no_of_emails_sent": "1",
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
