@@ -240,6 +240,7 @@
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_weekly",
 	"user_logged_in": "Jay",
+	"calls_stack": ["12/12/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -280,6 +281,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -321,6 +323,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/12/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -362,6 +365,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_Polite",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -403,6 +407,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
 	"call_priority": "Bi_Polite",
+	"calls_stack": ["12/15/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -562,6 +567,7 @@
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
 	"user_logged_in": "Aaliyah",
+	"calls_stack": ["12/12/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -602,6 +608,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_weekly",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -643,6 +650,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Bi_Polite",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -764,6 +772,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "follow-up",
+	"calls_stack": ["12/12/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -1825,7 +1834,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Red-Priority",
-	"user_logged_in": "-",
+	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default",
 	"phone_no": "default"
@@ -2113,6 +2122,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/13/16"],	
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -2354,6 +2364,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "-",
+	"calls_stack": ["12/13/16"],	
 	"user_logged_in": "Aaliyah"
 }, {
 	"_id": {
@@ -2594,6 +2605,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/14/16"],	
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -2635,6 +2647,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/14/16"],	
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -2676,6 +2689,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/14/16"],	
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -3537,6 +3551,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "waitin-response",
+	"calls_stack": ["12/15/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -3578,6 +3593,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/15/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -3660,6 +3676,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "waitin-response",
+	"calls_stack": ["12/15/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -3779,6 +3796,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Red-Priority",
+	"calls_stack": ["12/15/16"],
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -3939,6 +3957,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Red-Priority",
+	"calls_stack": ["12/15/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4018,6 +4037,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
+	"calls_stack": ["12/15/16"],	
 	"call_priority": "Bi_weekly",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -4060,6 +4080,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
 	"call_priority": "Bi_weekly",
+	"calls_stack": ["12/15/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4101,6 +4122,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
 	"call_priority": "Grey",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4221,6 +4243,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4377,6 +4400,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "waitin-response",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4417,6 +4441,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
 	"call_priority": "Grey",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4496,6 +4521,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "waitin-response",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default",
 	"email_address": "Gracia8154@hotmail.com"
@@ -4726,6 +4752,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
 	"call_priority": "Grey",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4766,6 +4793,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4806,6 +4834,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
 	"call_priority": "Grey",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4886,6 +4915,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -5033,6 +5063,7 @@
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
 	"call_priority": "Left-VM",
+	"calls_stack": ["12/16/16"],	
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
