@@ -5885,7 +5885,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "later",
+	"call_priority": "Later",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -6045,7 +6045,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "wrong-no",
+	"call_priority": "Wrong_No",
 	"DOM": "default",
 	"dateAdded": "default"
 }]
