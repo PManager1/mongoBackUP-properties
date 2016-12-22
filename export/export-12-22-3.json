@@ -35,7 +35,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow-Up",
+	"call_priority": "Follow_Up",
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -117,7 +117,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow-Up",
+	"call_priority": "Follow_Up",
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -238,7 +238,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default",
@@ -280,7 +280,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/12/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/12/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
@@ -322,7 +322,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/12/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/12/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
@@ -649,7 +649,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/12/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"user_logged_in": "Aaliyah",
 	"calls_stack": ["12/12/16"],
 	"DOM": "default",
@@ -771,7 +771,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/12/16",
-	"call_priority": "Follow-Up",
+	"call_priority": "Follow_Up",
 	"calls_stack": ["12/12/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
@@ -2078,7 +2078,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/13/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/13/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
@@ -2119,7 +2119,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default",
@@ -2438,7 +2438,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow-Up",
+	"call_priority": "Follow_Up",
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -2520,7 +2520,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/14/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/14/16"],
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
@@ -2563,7 +2563,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Red-Priority",
+	"call_priority": "Red_Priority",
 	"user_logged_in": "Jay",
 	"DOM": "default",
 	"dateAdded": "default",
@@ -2646,7 +2646,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/14/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/14/16"],
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
@@ -2688,7 +2688,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/14/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/14/16"],
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
@@ -3550,7 +3550,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
-	"call_priority": "waitin-response",
+	"call_priority": "Waitin_Response",
 	"calls_stack": ["12/15/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -3592,7 +3592,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -3633,7 +3633,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
-	"call_priority": "waitin-response",
+	"call_priority": "Waitin_Response",
 	"calls_stack": ["12/15/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -3753,7 +3753,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
-	"call_priority": "Red-Priority",
+	"call_priority": "Red_Priority",
 	"calls_stack": ["12/15/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -3795,7 +3795,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -3875,7 +3875,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
-	"call_priority": "Red-Priority",
+	"call_priority": "Red_Priority",
 	"calls_stack": ["12/15/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -4120,7 +4120,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4200,7 +4200,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/16/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -4241,7 +4241,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4320,7 +4320,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/15/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/15/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -4399,7 +4399,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
-	"call_priority": "waitin-response",
+	"call_priority": "Waitin_Response",
 	"calls_stack": ["12/16/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -4440,7 +4440,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "no-updated",
+	"call_priority": "No_Updated",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4751,7 +4751,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/16/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -4792,7 +4792,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4832,7 +4832,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/16/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -4873,7 +4873,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -4912,7 +4912,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Wrong-No",
+	"call_priority": "Wrong_No",
 	"DOM": "default",
 	"dateAdded": "default",
 	"phone_no": "default"
@@ -5060,7 +5060,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"calls_stack": ["12/16/16"],
 	"DOM": "default",
 	"dateAdded": "default"
@@ -5178,7 +5178,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/16/16",
-	"call_priority": "waitin-response",
+	"call_priority": "Waitin_Response",
 	"calls_stack": ["12/16/16"],
 	"DOM": "default",
 	"dateAdded": "default",
@@ -6005,7 +6005,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Left-VM",
+	"call_priority": "Left_VM",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
