@@ -30,6 +30,8 @@ mongoimport --db mean-dev --collection users --jsonArray --file new_users.json
 
 
 # ADD and DROP  | DEV 
+mongoimport --db mean-dev --collection properties --drop --jsonArray --file 
+
 mongoimport --db mean-dev --collection properties --drop --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
 mongoimport --db mean-dev --collection users --drop --jsonArray --file new_users.json
 
@@ -41,7 +43,7 @@ mongoimport --db mean-dev --collection users --drop --jsonArray --file new_users
 
 # PROD 
 
-mongoexport --jsonArray --db mean --collection properties  --out export/export-12-22-2.json
+mongoexport --jsonArray --db mean --collection properties  --out export/export-12-22-3.json
 
 
 
