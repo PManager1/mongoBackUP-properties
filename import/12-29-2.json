@@ -1,7 +1,4 @@
 [{
-	"_id": {
-		"$oid": "58648578a15580e9039daba0"
-	},
 	"status": "Active",
 	"Folio #": "4.9411E+11",
 	"address": "6012 NW 67TH AVE",
@@ -40,9 +37,6 @@
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
-	"_id": {
-		"$oid": "58648578a15580e9039daba1"
-	},
 	"status": "Active",
 	"Folio #": "4.94112E+11",
 	"address": "6982 SW 19TH MNR",
