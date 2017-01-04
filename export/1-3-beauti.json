@@ -1,4 +1,4 @@
-[{
+`[{
 	"_id": {
 		"$oid": "584eca1a8cde1786b0bb11a1"
 	},
@@ -35,7 +35,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -76,7 +76,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -771,7 +771,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "12/12/16",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"calls_stack": ["12/12/16"],
 	"user_logged_in": "Jay",
 	"DOM": "default",
@@ -2438,7 +2438,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"user_logged_in": "Aaliyah",
 	"DOM": "default",
 	"dateAdded": "default"
@@ -6416,7 +6416,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -6785,7 +6785,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -6867,7 +6867,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -7380,7 +7380,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -8034,7 +8034,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -9170,7 +9170,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -9417,7 +9417,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -11877,7 +11877,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -12164,7 +12164,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "-",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
@@ -12287,7 +12287,7 @@
 	"last_date_email_open": "-",
 	"no_of_emails_open": "-",
 	"last_date_call_was_made": "1/3/17",
-	"call_priority": "Follow_Up",
+	"call_priority": "Continue",
 	"DOM": "default",
 	"dateAdded": "default"
 }, {
