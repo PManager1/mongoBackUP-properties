@@ -1,3 +1,5 @@
+
+
 # ADD  ONLY   | PROD
 
 mongoimport --db mean --collection properties --jsonArray --file 
@@ -59,6 +61,13 @@ mongoimport --db mean-dev --collection properties --drop --jsonArray --file expo
 mongoexport --jsonArray --db mean-dev --collection properties  --out export-properties.json
 
 
+
+
+alias lad='mongoimport --db mean-dev --collection properties --jsonArray --file '
+alias ladd='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
+
+alias sa='mongoimport --db mean --collection properties --jsonArray --file '
+alias sad='mongoimport --db mean --collection properties --drop --jsonArray --file '
 
 
 
