@@ -43,7 +43,7 @@ mongoimport --db mean-dev --collection users --drop --jsonArray --file new_users
 #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT 
 # PROD 
 
-mongoexport --jsonArray --db mean --collection properties  --out export/export-1-11.json
+mongoexport --jsonArray --db mean --collection properties  --out export/export-1-12.json
 
 
 
