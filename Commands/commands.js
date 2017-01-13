@@ -69,7 +69,8 @@ alias sad='mongoimport --db mean --collection properties --drop --jsonArray --fi
 
 
 
-
+alias lxp='mongoexport --jsonArray --db mean-dev --collection properties  --out '
+alias sxp='mongoexport --jsonArray --db mean --collection properties  --out '
 
 
 
