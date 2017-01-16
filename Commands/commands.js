@@ -62,7 +62,7 @@ mongoexport --jsonArray --db mean-dev --collection properties  --out export-prop
 
 
 alias lad='mongoimport --db mean-dev --collection properties --jsonArray --file '
-alias ladd='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
+alias lad='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
 
 alias sa='mongoimport --db mean --collection properties --jsonArray --file '
 alias sad='mongoimport --db mean --collection properties --drop --jsonArray --file '
