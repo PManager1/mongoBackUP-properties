@@ -61,19 +61,19 @@ mongoexport --jsonArray --db mean-dev --collection properties  --out export-prop
 
 
 
-alias lad='mongoimport --db mean-dev --collection properties --jsonArray --file '
-alias lad='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
 
-alias sa='mongoimport --db mean --collection properties --jsonArray --file '
-alias sad='mongoimport --db mean --collection properties --drop --jsonArray --file '
+sub .zshrc 
 
+alias ladd='mongoimport --db mean-dev --collection properties --jsonArray --file '
+alias laddd='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
 
+alias sadd='mongoimport --db mean --collection properties --jsonArray --file '
+alias saddd='mongoimport --db mean --collection properties --drop --jsonArray --file '
 
-alias lxp='mongoexport --jsonArray --db mean-dev --collection properties  --out '
-alias sxp='mongoexport --jsonArray --db mean --collection properties  --out '
+sudo vim .bash_profile
 
-
-
+alias lex='mongoexport --jsonArray --db mean-dev --collection properties  --out '
+alias sex='mongoexport --jsonArray --db mean --collection properties  --out '
 
 
 
