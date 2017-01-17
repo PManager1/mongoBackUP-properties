@@ -94,6 +94,18 @@ alias sex='mongoexport --jsonArray --db mean --collection properties  --out '
 
 
 
+Mongo search :
+http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-string
+
+db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
+db.properties.findOne({"agent_name" : {$regex : ".*San.*"}});
+
+db.properties.findOne({"address" : {$regex : ".* 244 *"}});
+
+
+
+
+
 
 
 
