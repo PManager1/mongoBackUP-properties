@@ -76,6 +76,20 @@ alias lex='mongoexport --jsonArray --db mean-dev --collection properties  --out 
 alias sex='mongoexport --jsonArray --db mean --collection properties  --out '
 
 
+=====
+
+
+
+
+alias ladd='mongoimport --db mean-dev --collection properties --jsonArray --file '
+alias laddd='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
+
+alias sadd='mongoimport --db mean --collection properties --jsonArray --file '
+alias saddd='mongoimport --db mean --collection properties --drop --jsonArray --file '
+
+
+alias lex='mongoexport --jsonArray --db mean-dev --collection properties  --out '
+alias sex='mongoexport --jsonArray --db mean --collection properties  --out '
 
 
 
