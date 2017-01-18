@@ -46,7 +46,6 @@ mongoexport --jsonArray --db mean --collection properties  --out export/export-1
 
 
 # LOCAL - MAC
-
 mongoexport --jsonArray --db mean-dev --collection properties  --out new_properties.json
 mongoexport --jsonArray --db mean-dev --collection users  --out new_users.json
 
@@ -55,30 +54,14 @@ mongoexport --jsonArray --db mean-dev --collection articles  --out export-articl
 # LOCAL IMPORT 
 
 mongoimport --db mean-dev --collection properties --drop --jsonArray --file export-properties.json
-
 mongoexport --jsonArray --db mean-dev --collection properties  --out export-properties.json
 
 
 
 
-
 sub .zshrc 
-
-alias ladd='mongoimport --db mean-dev --collection properties --jsonArray --file '
-alias laddd='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
-
-alias sadd='mongoimport --db mean --collection properties --jsonArray --file '
-alias saddd='mongoimport --db mean --collection properties --drop --jsonArray --file '
-
 sudo vim .bash_profile
-
-alias lex='mongoexport --jsonArray --db mean-dev --collection properties  --out '
-alias sex='mongoexport --jsonArray --db mean --collection properties  --out '
-
-
 =====
-
-
 
 
 alias ladd='mongoimport --db mean-dev --collection properties --jsonArray --file '
@@ -98,7 +81,7 @@ Mongo search :
 http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-string
 
 db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
-db.properties.findOne({"agent_name" : {$regex : ".*San.*"}});
+db.properties.findOne({"agent_name" : {$regex : ".*Yakell.*"}});
 
 db.properties.findOne({"address" : {$regex : ".* 244 *"}});
 
