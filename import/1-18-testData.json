@@ -1,11 +1,10 @@
-[
-    {
+[{
       "status": "Active",
       "Folio #": "F# 3050320101420",
       "address": "Test 10270 SW 175TH ST test",
       "city": "MIAMI",
       "Zip Code": "33157",
-      "agent_name": "Test",
+      "agent_name": "True-Guy",
       "dom": "35",
       "dates_email_were_sent_on": "-",
       "listPrice": "239000",
@@ -35,42 +34,4 @@
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
       "call_priority": "-"
-    },
-    {
-      "status": "Active",
-      "Folio #": "F# 0621260100880",
-      "address": "Test 1065 NW 127TH ST test",
-      "city": "NORTH MIAMI",
-      "Zip Code": "33168",
-      "agent_name": "Test",
-      "dom": "37",
-      "dates_email_were_sent_on": "-",
-      "listPrice": "136500",
-      "offerPrice": "78.62",
-      "Offer": "107310",
-      "C. Offer": "0",
-      "LU": "0",
-      "C": "N",
-      "P": "N",
-      "E": "N",
-      "A": "N",
-      "Agent Type": "Agent",
-      "phone_no": "305-441-2009",
-      "email_address": "offers@ygrouprealty.com",
-      "user_logged_in": "Test",
-      "cell_phone": "c",
-      "comments": "-",
-      "county": "Broward",
-      "agent_State": "FL",
-      "propStatus": "-",
-      "agent_Type": "No",
-      "agentStatus": "-",
-      "owner": "-",
-      "last_date_email_sent_on": "1/18/17",
-      "no_of_emails_sent": "1",
-      "last_date_email_open": "-",
-      "no_of_emails_open": "-",
-      "last_date_call_was_made": "-",
-      "call_priority": "-"
-    }
-  ]
+}]
