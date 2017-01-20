@@ -81,7 +81,7 @@ Mongo search :
 http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-string
 
 db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
-db.properties.findOne({"agent_name" : {$regex : ".*Yakell.*"}});
+db.properties.findOne({"agent_name" : {$regex : ".*Vivian.*"}});
 
 db.properties.findOne({"address" : {$regex : ".* 244 *"}});
 
