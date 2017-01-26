@@ -55,7 +55,7 @@ mongoexport --jsonArray --db mean-dev --collection properties  --out export-prop
 db.properties.findOne({"agent_name" : {$regex : ".*test Coral*"}});
 
 
-
+db.properties.findOne({"last_date_email_sent_on" : {$regex : "1/17/17"}});
 
 
 
