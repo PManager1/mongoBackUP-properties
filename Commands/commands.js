@@ -8,6 +8,7 @@ mongoimport --db mean --collection users --jsonArray --file new_users.json
 
 
 
+
 # ADD and DROP  | PROD
 mongoimport --db mean --collection properties --drop --jsonArray --file 
 mongoimport --db mean --collection properties --drop --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
@@ -64,10 +65,10 @@ sudo vim .bash_profile
 
 
 alias ladd='mongoimport --db mean-dev --collection properties --jsonArray --file '
-alias ladd-d='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
+alias laddd='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
 
 alias sadd='mongoimport --db mean --collection properties --jsonArray --file '
-alias sadd-d='mongoimport --db mean --collection properties --drop --jsonArray --file '
+alias saddd='mongoimport --db mean --collection properties --drop --jsonArray --file '
 
 
 alias lex='mongoexport --jsonArray --db mean-dev --collection properties  --out '
@@ -80,7 +81,7 @@ Mongo search :
 http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-string
 
 db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
-db.properties.findOne({"agent_name" : {$regex : ".*test guy.*"}});
+db.properties.findOne({"agent_name" : {$regex : ".*Vivian.*"}});
 
 db.properties.findOne({"address" : {$regex : ".* 244 *"}});
 

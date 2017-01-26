@@ -12,8 +12,6 @@ mongoimport --db mean --collection users --drop --jsonArray --file new_users.jso
 
 
 
-
-
 # ADD  ONLY   | DEV
 mongoimport --db mean-dev --collection properties --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
 mongoimport --db mean-dev --collection users --jsonArray --file new_users.json
@@ -54,7 +52,7 @@ mongoexport --jsonArray --db mean-dev --collection properties  --out export-prop
 
 
 
-
+db.properties.findOne({"agent_name" : {$regex : ".*test Coral*"}});
 
 
 
