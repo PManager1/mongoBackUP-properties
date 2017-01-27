@@ -86,8 +86,9 @@ db.properties.findOne({"agent_name" : {$regex : ".*Vivian.*"}});
 db.properties.findOne({"address" : {$regex : ".* 244 *"}});
 
 
+db.properties.findOne({"Left_VM_P" : {$regex : ".*true.*"}});
 
-
+db.properties.findOne({"Left_VM_P" : true});
 
 
 
