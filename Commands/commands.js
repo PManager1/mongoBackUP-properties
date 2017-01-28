@@ -8,7 +8,6 @@ mongoimport --db mean --collection users --jsonArray --file new_users.json
 
 
 
-
 # ADD and DROP  | PROD
 mongoimport --db mean --collection properties --drop --jsonArray --file 
 mongoimport --db mean --collection properties --drop --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
@@ -76,12 +75,11 @@ alias sex='mongoexport --jsonArray --db mean --collection properties  --out '
 
 
 
-
 Mongo search :
 http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-string
 
 db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
-db.properties.findOne({"agent_name" : {$regex : ".*Vivian.*"}});
+db.properties.findOne({"agent_name" : {$regex : ".*Noam.*"}});
 
 db.properties.findOne({"address" : {$regex : ".* 244 *"}});
 
@@ -92,11 +90,32 @@ db.properties.findOne({"Left_VM_P" : true});
 
 
 
+db.properties.find({ "FollowUp_Call_Date.$date": {"$gte": new Date(2017, 0, 26) }});
 
 
+WORKING
+db.properties.find({ "FollowUp_Call_Date": {"$gte": new Date(2017, 0, 24) }});
+
+db.properties.find({ "FollowUp_Call_Date": {"$gte": new Date(2017, 0, 24) }}).pretty();
 
 
+WORKING 
+ - It finds the properties with Followup date of 28. 
+db.properties.find({ "FollowUp_Call_Date": {"$gte": new Date(2017, 0, 27) }}).count();
 
+
+db.properties.find({ "FollowUp_Call_Date": {"$gte": new Date() }}).count();
+ new Date()
+
+works :
+db.properties.find({ "FollowUp_Call_Date": {"$gte": new Date() }}).count();
+
+db.properties.find({ "Left_VM_P" : 'true' }).count();
+
+db.properties.find({"Left_VM_P" : true}).count();
+
+
+db.properties.find( { $where: "this.Left_VM_P == true" } );
 
 
 
