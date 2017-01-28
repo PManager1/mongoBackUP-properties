@@ -1,0 +1,182 @@
+[
+  {
+    "_id": {
+      "$oid": "5844625705d887428b99b511"
+    },
+    "salt": "/10i4T0V8nDTblD6Asry+w==",
+    "username": "seeduser",
+    "provider": "local",
+    "displayName": "User Local",
+    "created": {
+      "$date": "2016-12-04T18:37:11.979Z"
+    },
+    "roles": [
+      "user"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "gBMb8nNgB8ClyAzX/NmT6EEkUAwWLkbAXiYWcmI+T1inVxG5zeGVnQiGyaCwpApR/gGqp/34nQwQM9sQXv3ukw==",
+    "email": "user@localhost.com",
+    "lastName": "Local",
+    "firstName": "User",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5844625705d887428b99b510"
+    },
+    "salt": "zG038R0uH/fa6mB8g8f2jg==",
+    "username": "seedadmin",
+    "provider": "local",
+    "displayName": "Admin Local",
+    "created": {
+      "$date": "2016-12-04T18:37:11.974Z"
+    },
+    "roles": [
+      "user",
+      "admin"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "PHOzrwkSpZ3oDqxVSc6hM5OTgp4HNlaPmVJiL9aZdfilZ7Tso8KN7E15gpqcWIPkuvXNX1zt3YBUOrKZq2fj3w==",
+    "email": "admin@localhost.com",
+    "lastName": "Local",
+    "firstName": "Admin",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "584462b705d887428b99b512"
+    },
+    "salt": "ReBuiMVj5bzmp3FDSmmFFg==",
+    "displayName": "j p",
+    "provider": "local",
+    "username": "jp_ca",
+    "created": {
+      "$date": "2016-12-04T18:38:47.565Z"
+    },
+    "roles": [
+      "user",
+      "admin"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "uh24aAIL3anh9IeUq4fWThkjZ+TwQrHr/NUHxk/i2C+OBrteLN3STu60KKy9zHIMi1zcIZJN8rr50aJnDqnZjA==",
+    "email": "jp_ca@ymail.com",
+    "lastName": "p",
+    "firstName": "j",
+    "__v": 1,
+    "resetPasswordExpires": {
+      "$date": "2017-01-28T19:39:27.716Z"
+    },
+    "resetPasswordToken": "90a1f83d6156cf753966f090a37788352b9d42bd"
+  },
+  {
+    "_id": {
+      "$oid": "584462b705d887428b99b512"
+    },
+    "salt": "ReBuiMVj5bzmp3FDSmmFFg==",
+    "displayName": "j p",
+    "provider": "local",
+    "username": "jpca999",
+    "created": {
+      "$date": "2016-12-04T18:38:47.565Z"
+    },
+    "roles": [
+      "user",
+      "admin"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "uh24aAIL3anh9IeUq4fWThkjZ+TwQrHr/NUHxk/i2C+OBrteLN3STu60KKy9zHIMi1zcIZJN8rr50aJnDqnZjA==",
+    "email": "jpca999@gmail.com",
+    "lastName": "p",
+    "firstName": "j",
+    "__v": 1,
+    "resetPasswordExpires": {
+      "$date": "2017-01-28T19:39:27.716Z"
+    },
+    "resetPasswordToken": "90a1f83d6156cf753966f090a37788352b9d42bd"
+  },  
+  {
+    "_id": {
+      "$oid": "5844729e501f764fc726b40b"
+    },
+    "salt": "mHik5kYFXzeJF4dPYTc5ew==",
+    "displayName": "homo homo",
+    "provider": "local",
+    "username": "homo",
+    "created": {
+      "$date": "2016-12-04T19:46:38.594Z"
+    },
+    "roles": [
+      "user"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "+s/OEk2BMPJxI6gF/TILIcz9OasuzydfSlemmNkP8dcCYAAKZN9rREdGvBqLordywYi9ISlifDScTQZRrYl2Mw==",
+    "email": "homo@gmail.com",
+    "lastName": "homo",
+    "firstName": "homo",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5844b2d0cda7428a541877db"
+    },
+    "salt": "MYilrKgHmxA77Nw0paHo0A==",
+    "displayName": "sohan sohan",
+    "provider": "local",
+    "username": "sohan",
+    "created": {
+      "$date": "2016-12-05T00:20:32.788Z"
+    },
+    "roles": [
+      "user",
+      "admin"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "/YhUfCrsshKdVA3+GXBtNDRCEIMP1CYUOJDECmxzyRPYoxv8XaCQk8T1z6hIsNDiqFqe6010Q+ofEKTmHP6NYw==",
+    "email": "sohan@gmail.com",
+    "lastName": "sohan",
+    "firstName": "sohan",
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "5845bd672d84f449af5a7ec1"
+    },
+    "status": "Active",
+    "Folio #": "3.0591E+12",
+    "address": "11030 SW 142ND CT",
+    "city": "MIAMI",
+    "Zip Code": "33186",
+    "agent_name": "Tacey Kearin",
+    "dom": "36",
+    "dates_email_were_sent_on": "-",
+    "listPrice": "295000",
+    "offerPrice": "64.35",
+    "Offer": "189830",
+    "C. Offer": "0",
+    "Next Date": "2016-12-05",
+    "Next Task": "Send Document",
+    "LU": "0",
+    "C": "Y",
+    "P": "N",
+    "E": "Y",
+    "A": "Y",
+    "Agent Type": "Agent",
+    "phone_no": "786-683-9319",
+    "email_address": "taceykearin@gmail.com",
+    "cell_phone": "-",
+    "comments": "-",
+    "county": "Dade",
+    "agent_State": "FL",
+    "propStatus": "-",
+    "agent_Type": "-",
+    "agentStatus": "-",
+    "owner": "-",
+    "last_date_email_sent_on": "12/5/16",
+    "no_of_emails_sent": "1",
+    "last_date_email_open": "-",
+    "no_of_emails_open": "-",
+    "last_date_call_was_made": "-",
+    "call_priority": "-",
+    "user_logged_in": "aaliyah"
+  }
+]

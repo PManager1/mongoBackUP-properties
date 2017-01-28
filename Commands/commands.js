@@ -73,7 +73,7 @@ alias saddd='mongoimport --db mean --collection properties --drop --jsonArray --
 alias lex='mongoexport --jsonArray --db mean-dev --collection properties  --out '
 alias sex='mongoexport --jsonArray --db mean --collection properties  --out '
 
-
+mongoexport --jsonArray --db mean-dev --collection users  --out 
 
 Mongo search :
 http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-string
