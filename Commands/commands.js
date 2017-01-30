@@ -57,6 +57,11 @@ mongoexport --jsonArray --db mean-dev --collection properties  --out export-prop
 
 
 
+https://goo.gl/0BNPCz
+git add-commit -m 'My commit message'
+
+
+
 
 sub .zshrc 
 sudo vim .bash_profile
@@ -81,12 +86,30 @@ http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-strin
 db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
 db.properties.findOne({"agent_name" : {$regex : ".*Noam.*"}});
 
+
+db.properties.findOne({"_id" : {$regex : "588bdce69045439fdf1bb304"}});
+
+
+
 db.properties.findOne({"address" : {$regex : ".* 244 *"}});
 
 
 db.properties.findOne({"Left_VM_P" : {$regex : ".*true.*"}});
 
 db.properties.findOne({"Left_VM_P" : true});
+
+db.properties.findOne({"_id" : {$regex : "588bdce69045439fdf1bb304"}});
+
+db.properties.findOne({"_id" : "588bdce69045439fdf1bb304"});
+
+
+
+
+// db.properties.findOne({"address" : " 1721 SW 116TH WAY"});
+db.properties.findOne({"address" : {$regex : ".*1721 SW 116TH WAY*"}});
+
+db.properties.findOne({"_id" : {$regex : ".*588bdce69045439fdf1bb304*"}});
+
 
 
 
