@@ -138,6 +138,9 @@ db.properties.find({ "Left_VM_P" : 'true' }).count();
 db.properties.find({"Left_VM_P" : true}).count();
 
 
+db.properties.findOne({"agent_name" : {$regex : ".*true guy 19*"}});
+db.properties.find({"Send_Contract_P" : true}).count();
+
 db.properties.find( { $where: "this.Left_VM_P == true" } );
 
 
