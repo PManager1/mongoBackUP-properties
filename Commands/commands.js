@@ -116,8 +116,12 @@ db.properties.findOne({"_id" : {$regex : ".*588bdce69045439fdf1bb304*"}});
 db.properties.find({ "FollowUp_Call_Date.$date": {"$gte": new Date(2017, 0, 26) }});
 
 
+db.properties.find({ "FollowUp_Call_Date": : {$regex : ".*2-19-17*"}}});
+
+
 WORKING
 db.properties.find({ "FollowUp_Call_Date": {"$gte": new Date(2017, 0, 24) }});
+
 
 db.properties.find({ "FollowUp_Call_Date": {"$gte": new Date(2017, 0, 24) }}).pretty();
 
