@@ -57,10 +57,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T18:03:44.857Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -120,10 +121,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T17:12:39.960Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -187,10 +189,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-21T05:00:00.000Z"
-    },
-    "__v": 2
+    "FollowUp_Call_Date": "2-21-17",
+    "__v": 2,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -250,10 +253,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T17:12:39.958Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -315,10 +319,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-28T15:08:55.439Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-28-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -376,10 +381,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T17:02:48.220Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -441,10 +447,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-15T00:18:06.841Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "2-14-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -504,10 +511,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T18:03:44.858Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -567,10 +575,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T05:00:00.000Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -632,10 +641,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T18:23:03.651Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -695,10 +705,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T18:23:03.650Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -758,10 +769,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-15T00:19:16.310Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "2-14-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -819,10 +831,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-26T05:00:00.000Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-26-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -882,10 +895,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T17:12:39.957Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -946,10 +960,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T19:14:18.920Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1011,10 +1026,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T18:41:47.125Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1073,10 +1089,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T18:59:44.269Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1139,12 +1156,11 @@
       "02/06/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-09T01:31:38.077Z"
-    },
+    "FollowUp_Call_Date": "2-8-17",
     "__v": 1,
     "Send_Contract_P": false,
-    "Distressed_RequireWork_P": false
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false
   },
   {
     "_id": {
@@ -1204,10 +1220,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T19:35:59.651Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1267,10 +1284,11 @@
       "01/24/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-24T17:16:21.352Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-24-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1328,10 +1346,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-24T17:18:17.480Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-24-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1389,10 +1408,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T18:23:03.655Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1450,10 +1470,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-24T17:18:17.482Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-24-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1517,12 +1538,11 @@
       "02/06/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-01T05:00:00.000Z"
-    },
+    "FollowUp_Call_Date": "2-1-17",
     "__v": 3,
     "Distressed_RequireWork_P": false,
-    "Send_Contract_P": false
+    "Send_Contract_P": false,
+    "Homework_Needed_P": false
   },
   {
     "_id": {
@@ -1580,10 +1600,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-24T17:18:17.482Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-24-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1641,10 +1662,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-24T17:18:17.483Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-24-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1706,7 +1728,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1768,7 +1794,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 2
+    "__v": 2,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1828,10 +1858,11 @@
       "01/24/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-24T17:18:17.482Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-24-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -1892,11 +1923,10 @@
     "calls_stack": [],
     "dateAdded": "default",
     "__v": 1,
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-17T21:34:28.089Z"
-    },
+    "FollowUp_Call_Date": "2-17-17",
     "Distressed_RequireWork_P": false,
-    "Send_Contract_P": false
+    "Send_Contract_P": false,
+    "Homework_Needed_P": false
   },
   {
     "_id": {
@@ -1960,12 +1990,11 @@
       "02/10/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-24T17:18:17.483Z"
-    },
+    "FollowUp_Call_Date": "1-24-17",
     "__v": 2,
     "Distressed_RequireWork_P": false,
-    "Send_Contract_P": false
+    "Send_Contract_P": false,
+    "Homework_Needed_P": false
   },
   {
     "_id": {
@@ -2025,10 +2054,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T19:35:59.655Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2088,10 +2118,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T19:35:59.655Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2151,10 +2182,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T19:35:59.657Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2216,7 +2248,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2276,10 +2312,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T19:35:59.656Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2341,7 +2378,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 2
+    "__v": 2,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2403,7 +2444,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2463,7 +2508,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2523,7 +2572,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2583,10 +2636,11 @@
       "01/24/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-24T17:18:17.481Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-24-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2648,7 +2702,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2710,7 +2768,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2770,7 +2832,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2832,7 +2898,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2936,7 +3006,11 @@
       "02/01/17"
     ],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -2996,7 +3070,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -3045,9 +3123,7 @@
     "Red_Priority": true,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-19T17:20:20.808Z"
-    },
+    "FollowUp_Call_Date": "1-19-17",
     "__v": 1,
     "Bi_Weekly_P": false,
     "Continue_P": false,
@@ -3063,7 +3139,8 @@
     "Polite_P": false,
     "Red_Priority_P": false,
     "Send_Contract_P": false,
-    "Wrong_NO_P": false
+    "Wrong_NO_P": false,
+    "Homework_Needed_P": false
   },
   {
     "_id": {
@@ -3187,7 +3264,28 @@
     "call_priority": "Later",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -3238,9 +3336,7 @@
     "Bi_Weekly_P": false,
     "Continue_P": false,
     "Counter_P": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-03T05:00:00.000Z"
-    },
+    "FollowUp_Call_Date": "2-3-17",
     "Grey_P": false,
     "Later_P": false,
     "Later_Today_P": false,
@@ -3252,7 +3348,10 @@
     "Red_Priority_P": false,
     "Wrong_NO_P": false,
     "propertyStatus": "default",
-    "CounterOffer": "default"
+    "CounterOffer": "default",
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -3297,7 +3396,26 @@
     ],
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -3442,10 +3560,11 @@
       "01/23/17"
     ],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-23T19:14:18.937Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-23-17",
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -3529,7 +3648,28 @@
     "call_priority": "Later",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -3571,7 +3711,28 @@
     "call_priority": "Later",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -3658,7 +3819,26 @@
     ],
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -3760,12 +3940,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-08T05:00:00.000Z"
-    },
+    "FollowUp_Call_Date": "2-8-17",
     "__v": 1,
     "Send_Contract_P": true,
-    "Distressed_RequireWork_P": false
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false
   },
   {
     "_id": {
@@ -3810,7 +3989,26 @@
     ],
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -3859,10 +4057,24 @@
     "Red_Priority": true,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-19T19:38:15.055Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-19-17",
+    "__v": 1,
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false
   },
   {
     "_id": {
@@ -3911,9 +4123,7 @@
     "Red_Priority": true,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-19T17:15:00.161Z"
-    },
+    "FollowUp_Call_Date": "1-19-17",
     "__v": 1,
     "Bi_Weekly_P": false,
     "Continue_P": false,
@@ -3927,7 +4137,10 @@
     "No_Updated_P": false,
     "Polite_P": false,
     "Red_Priority_P": false,
-    "Wrong_NO_P": false
+    "Wrong_NO_P": false,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -3976,10 +4189,24 @@
     "Red_Priority": true,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-19T17:13:43.484Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-19-17",
+    "__v": 1,
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false
   },
   {
     "_id": {
@@ -4233,7 +4460,26 @@
     ],
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -4444,7 +4690,26 @@
     ],
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -4743,10 +5008,24 @@
     "Red_Priority": true,
     "calls_stack": [],
     "dateAdded": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-19T19:38:15.056Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-19-17",
+    "__v": 1,
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false
   },
   {
     "_id": {
@@ -5007,9 +5286,24 @@
     "Later": "false",
     "No_Updated": "false",
     "Red_Priority": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-17T21:04:21.156Z"
-    }
+    "FollowUp_Call_Date": "1-17-17",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -5177,7 +5471,28 @@
     "call_priority": "Continue",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -5343,7 +5658,28 @@
     "user_logged_in": "Jay",
     "DOM": "default",
     "dateAdded": "default",
-    "phone_no": "954-802-0568"
+    "phone_no": "954-802-0568",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -5467,7 +5803,28 @@
     "call_priority": "Grey",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -5551,7 +5908,28 @@
     "call_priority": "Grey",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -5720,7 +6098,26 @@
     ],
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -5848,7 +6245,28 @@
     "user_logged_in": "Jay",
     "DOM": "default",
     "dateAdded": "default",
-    "phone_no": "default"
+    "phone_no": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -6097,7 +6515,28 @@
     "call_priority": "Later",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -6461,7 +6900,28 @@
     "call_priority": "Grey",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -6730,12 +7190,11 @@
     "Red_Priority_P": false,
     "Wrong_NO_P": false,
     "propertyStatus": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-08T05:00:00.000Z"
-    },
+    "FollowUp_Call_Date": "2-8-17",
     "CounterOffer": "default",
     "Distressed_RequireWork_P": false,
-    "Send_Contract_P": false
+    "Send_Contract_P": false,
+    "Homework_Needed_P": false
   },
   {
     "_id": {
@@ -6777,7 +7236,28 @@
     "call_priority": "Grey",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -6902,7 +7382,26 @@
       "12/16/16"
     ],
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -6983,7 +7482,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -7025,7 +7545,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -7188,7 +7729,26 @@
       "12/15/16"
     ],
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -7233,7 +7793,26 @@
       "12/15/16"
     ],
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -7355,7 +7934,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -7396,7 +7996,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -7440,7 +8061,26 @@
       "12/16/16"
     ],
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -7492,10 +8132,25 @@
     "Later": "false",
     "No_Updated": "false",
     "Red_Priority": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-17T18:11:07.677Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-17-17",
+    "__v": 1,
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -7578,7 +8233,26 @@
       "12/16/16"
     ],
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -7620,7 +8294,28 @@
     "call_priority": "Left_VM",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -7662,7 +8357,28 @@
     "call_priority": "Left_VM",
     "user_logged_in": "Jay",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -7724,9 +8440,11 @@
     "Red_Priority_P": false,
     "Wrong_NO_P": false,
     "propertyStatus": "default",
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-02T01:58:32.163Z"
-    }
+    "FollowUp_Call_Date": "2-1-17",
+    "CounterOffer": "-",
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -7807,7 +8525,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Later",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -7964,7 +8703,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -8178,7 +8938,26 @@
       "12/16/16"
     ],
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -8223,7 +9002,26 @@
       "12/15/16"
     ],
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -8470,7 +9268,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -8512,7 +9331,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -8556,7 +9396,26 @@
       "12/16/16"
     ],
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -8597,7 +9456,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -8719,7 +9599,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -8960,7 +9861,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9001,7 +9923,28 @@
     "last_date_call_was_made": "12/22/16",
     "call_priority": "Bi_weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9085,7 +10028,26 @@
     ],
     "DOM": "default",
     "dateAdded": "default",
-    "email_address": "Gracia8154@hotmail.com"
+    "email_address": "Gracia8154@hotmail.com",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -9204,7 +10166,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9252,9 +10235,7 @@
     "Bi_Weekly_P": false,
     "Continue_P": false,
     "Counter_P": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-02T01:59:44.604Z"
-    },
+    "FollowUp_Call_Date": "2-1-17",
     "Grey_P": false,
     "Later_P": false,
     "Later_Today_P": false,
@@ -9270,7 +10251,10 @@
     ],
     "propertyStatus": "default",
     "__v": 1,
-    "CounterOffer": "-"
+    "CounterOffer": "-",
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -9312,7 +10296,28 @@
     "last_date_call_was_made": "12/23/16",
     "call_priority": "Bi_weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9393,7 +10398,28 @@
     "last_date_call_was_made": "12/22/16",
     "call_priority": "Bi_weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9475,7 +10501,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9516,7 +10563,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9604,7 +10672,11 @@
     ],
     "propertyStatus": "Grey",
     "__v": 2,
-    "CounterOffer": "default"
+    "CounterOffer": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -9709,7 +10781,28 @@
     "last_date_call_was_made": "12/22/16",
     "call_priority": "Counter",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9750,7 +10843,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "wrong-no",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9792,7 +10906,28 @@
     "last_date_call_was_made": "12/23/16",
     "call_priority": "Bi_weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9834,7 +10969,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -9882,9 +11038,7 @@
     "Bi_Weekly_P": false,
     "Continue_P": false,
     "Counter_P": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-02T03:11:36.419Z"
-    },
+    "FollowUp_Call_Date": "2-1-17",
     "Grey_P": false,
     "Later_P": false,
     "Later_Today_P": false,
@@ -9900,7 +11054,10 @@
     ],
     "propertyStatus": "default",
     "__v": 2,
-    "CounterOffer": "default"
+    "CounterOffer": "default",
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -9942,7 +11099,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10009,7 +11187,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10050,7 +11249,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10091,7 +11311,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Later",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10133,7 +11374,28 @@
     "last_date_call_was_made": "12/23/16",
     "call_priority": "Bi_weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10175,7 +11437,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10217,7 +11500,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10259,7 +11563,28 @@
     "last_date_call_was_made": "12/23/16",
     "call_priority": "Bi_weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10301,7 +11626,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10399,9 +11745,7 @@
     "Bi_Weekly_P": false,
     "Continue_P": false,
     "Counter_P": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-02T03:12:39.487Z"
-    },
+    "FollowUp_Call_Date": "2-1-17",
     "Grey_P": false,
     "Later_P": false,
     "Later_Today_P": false,
@@ -10414,7 +11758,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "propertyStatus": "default",
-    "__v": 1
+    "__v": 1,
+    "CounterOffer": "-",
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -10456,7 +11804,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10556,9 +11925,7 @@
     "Bi_Weekly_P": false,
     "Continue_P": false,
     "Counter_P": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-08T17:23:36.828Z"
-    },
+    "FollowUp_Call_Date": "2-8-17",
     "Grey_P": false,
     "Later_P": false,
     "Later_Today_P": false,
@@ -10570,7 +11937,10 @@
     "Red_Priority_P": false,
     "Wrong_NO_P": false,
     "propertyStatus": "default",
-    "CounterOffer": "default"
+    "CounterOffer": "default",
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -10637,7 +12007,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10758,7 +12149,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10807,10 +12219,25 @@
     "No_Updated": "false",
     "Red_Priority": false,
     "calls_stack": [],
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-17T21:06:51.864Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-17-17",
+    "__v": 1,
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -10852,7 +12279,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -10933,7 +12381,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11015,7 +12484,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11223,7 +12713,11 @@
       "02/01/17"
     ],
     "propertyStatus": "default",
-    "__v": 2
+    "__v": 2,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -11272,9 +12766,7 @@
     "Continue_P": false,
     "CounterOffer": "default",
     "Counter_P": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-03T14:51:59.535Z"
-    },
+    "FollowUp_Call_Date": "2-3-17",
     "Grey_P": false,
     "Later_P": false,
     "Later_Today_P": false,
@@ -11287,7 +12779,10 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "propertyStatus": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -11336,10 +12831,25 @@
     "No_Updated": "false",
     "Red_Priority": false,
     "calls_stack": [],
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-17T21:06:51.863Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-17-17",
+    "__v": 1,
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -11381,7 +12891,28 @@
     "last_date_call_was_made": "12/27/16",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11440,7 +12971,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "propertyStatus": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -11482,7 +13017,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11524,7 +13080,28 @@
     "last_date_call_was_made": "12/27/16",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11585,7 +13162,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "propertyStatus": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -11650,7 +13231,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11692,7 +13296,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11735,7 +13360,28 @@
     "last_date_call_was_made": "1/16/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11784,10 +13430,25 @@
     "No_Updated": "false",
     "Red_Priority": false,
     "calls_stack": [],
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-17T21:06:51.872Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-17-17",
+    "__v": 1,
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -11848,7 +13509,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "propertyStatus": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -11891,7 +13556,28 @@
     "call_priority": "Wrong_No",
     "DOM": "default",
     "dateAdded": "default",
-    "phone_no": "default"
+    "phone_no": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11933,7 +13619,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -11975,7 +13682,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12017,7 +13745,28 @@
     "call_priority": "No_Updated",
     "DOM": "default",
     "dateAdded": "default",
-    "phone_no": "(786)4452302"
+    "phone_no": "(786)4452302",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12076,7 +13825,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "propertyStatus": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -12118,7 +13871,28 @@
     "last_date_call_was_made": "12/27/16",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12160,7 +13934,28 @@
     "last_date_call_was_made": "12/28/16",
     "call_priority": "Bi_weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12200,7 +13995,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12261,7 +14079,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "propertyStatus": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -12301,7 +14123,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12343,7 +14188,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12385,7 +14251,28 @@
     "call_priority": "Bi_Weekly",
     "DOM": "default",
     "dateAdded": "default",
-    "phone_no": "default"
+    "phone_no": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12427,7 +14314,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Negotiation_Willing",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12469,7 +14377,28 @@
     "last_date_call_was_made": "12/28/16",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12511,7 +14440,28 @@
     "last_date_call_was_made": "12/28/16",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12553,7 +14503,28 @@
     "last_date_call_was_made": "12/28/16",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12593,7 +14564,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12635,7 +14629,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Counter",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12677,7 +14692,28 @@
     "call_priority": "No_Updated",
     "DOM": "default",
     "dateAdded": "default",
-    "phone_no": "(305)7948660"
+    "phone_no": "(305)7948660",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12719,7 +14755,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Later",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12759,7 +14816,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12801,7 +14881,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12843,7 +14944,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12885,7 +15007,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12927,7 +15070,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -12969,7 +15133,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Later",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13011,7 +15196,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Counter",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13054,7 +15260,28 @@
     "call_priority": "Red_Priority",
     "DOM": "default",
     "dateAdded": "default",
-    "email_address": "default"
+    "email_address": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13113,7 +15340,11 @@
     "Wrong_NO_P": false,
     "calls_stack": [],
     "propertyStatus": "default",
-    "__v": 1
+    "__v": 1,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Homework_Needed_P": false,
+    "Send_Contract_P": false
   },
   {
     "_id": {
@@ -13155,7 +15386,28 @@
     "call_priority": "Left_VM",
     "DOM": "default",
     "dateAdded": "default",
-    "email_address": "default"
+    "email_address": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13163,7 +15415,7 @@
     },
     "status": "Active",
     "Folio #": "3.0691E+12",
-    "address": "12371 SW 191ST ST ",
+    "address": "12371 SW 191ST ST",
     "city": "MIAMI",
     "Zip Code": "33177",
     "agent_name": "Ariam Lopez",
@@ -13195,7 +15447,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13237,7 +15512,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13279,7 +15575,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13321,7 +15638,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13363,7 +15701,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13405,7 +15764,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13447,7 +15827,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13489,7 +15890,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13531,7 +15953,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13573,7 +16016,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13615,7 +16079,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Red_Priority",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13657,7 +16142,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13700,7 +16206,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13742,7 +16269,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Red_Priority",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13826,7 +16374,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13868,7 +16437,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13910,7 +16500,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13952,7 +16563,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -13994,7 +16626,28 @@
     "last_date_call_was_made": "12/30/16",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14036,7 +16689,28 @@
     "last_date_call_was_made": "12/30/16",
     "call_priority": "Bi_weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14078,7 +16752,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14120,7 +16815,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14162,7 +16878,28 @@
     "call_priority": "Red_Priority",
     "DOM": "default",
     "dateAdded": "default",
-    "email_address": "jeffbaccarirealtor@gmail.com"
+    "email_address": "jeffbaccarirealtor@gmail.com",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14204,7 +16941,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14246,7 +17004,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14288,7 +17067,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14330,7 +17130,28 @@
     "call_priority": "Grey",
     "DOM": "default",
     "dateAdded": "default",
-    "phone_no": "(954) 702-3107"
+    "phone_no": "(954) 702-3107",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14373,7 +17194,28 @@
     "last_date_call_was_made": "12/30/16",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14422,10 +17264,25 @@
     "No_Updated": "false",
     "Red_Priority": false,
     "calls_stack": [],
-    "FollowUp_Call_Date": {
-      "$date": "2017-01-18T15:55:18.375Z"
-    },
-    "__v": 1
+    "FollowUp_Call_Date": "1-18-17",
+    "__v": 1,
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "propertyStatus": "default"
   },
   {
     "_id": {
@@ -14467,7 +17324,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14507,7 +17385,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14549,7 +17450,28 @@
     "last_date_call_was_made": "1/9/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14591,7 +17513,28 @@
     "last_date_call_was_made": "12/29/16",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14631,7 +17574,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14673,7 +17639,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14715,7 +17702,28 @@
     "last_date_call_was_made": "12/30/16",
     "call_priority": "Counter",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14757,7 +17765,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Red_Priority",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14799,7 +17828,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14839,7 +17889,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14881,7 +17954,28 @@
     "call_priority": "Left_VM",
     "DOM": "default",
     "dateAdded": "default",
-    "email_address": "default"
+    "email_address": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14923,7 +18017,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -14965,7 +18080,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Red_Priority",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15007,7 +18143,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15049,7 +18206,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "-",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15089,7 +18267,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15129,7 +18330,30 @@
     "last_date_email_open": "-",
     "no_of_emails_open": "-",
     "last_date_call_was_made": "-",
-    "call_priority": "-"
+    "call_priority": "-",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "DOM": "default",
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "dateAdded": "default",
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15171,7 +18395,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15213,7 +18458,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15307,7 +18573,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Bi_Weekly",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15349,7 +18636,28 @@
     "last_date_call_was_made": "1/2/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15391,7 +18699,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15433,7 +18762,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Red_Priority",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15475,7 +18825,28 @@
     "last_date_call_was_made": "1/10/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15517,7 +18888,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15559,7 +18951,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15601,7 +19014,28 @@
     "last_date_call_was_made": "1/2/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15643,7 +19077,28 @@
     "last_date_call_was_made": "1/2/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15685,7 +19140,28 @@
     "call_priority": "No_Updated",
     "DOM": "default",
     "dateAdded": "default",
-    "phone_no": "3057880458"
+    "phone_no": "3057880458",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15727,7 +19203,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15769,7 +19266,28 @@
     "last_date_call_was_made": "1/2/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15811,7 +19329,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15853,7 +19392,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15895,7 +19455,28 @@
     "last_date_call_was_made": "1/2/17",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15937,7 +19518,28 @@
     "last_date_call_was_made": "1/2/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -15979,7 +19581,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16021,7 +19644,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16063,7 +19707,28 @@
     "last_date_call_was_made": "1/2/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16105,7 +19770,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16147,7 +19833,28 @@
     "last_date_call_was_made": "1/2/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16189,7 +19896,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16231,7 +19959,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16273,7 +20022,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16315,7 +20085,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "No_Updated",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16357,7 +20148,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16399,7 +20211,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16441,7 +20274,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16483,7 +20337,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16525,7 +20400,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16567,7 +20463,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16609,7 +20526,28 @@
     "last_date_call_was_made": "1/10/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16651,7 +20589,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16693,7 +20652,28 @@
     "last_date_call_was_made": "-",
     "call_priority": "Wrong_No",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16735,7 +20715,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16777,7 +20778,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16819,7 +20841,28 @@
     "call_priority": "Left_VM",
     "DOM": "default",
     "dateAdded": "default",
-    "email_address": "default"
+    "email_address": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16861,7 +20904,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16903,7 +20967,28 @@
     "last_date_call_was_made": "1/11/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16945,7 +21030,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -16987,7 +21093,28 @@
     "last_date_call_was_made": "1/4/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -17029,7 +21156,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -17071,7 +21219,28 @@
     "last_date_call_was_made": "1/3/17",
     "call_priority": "Left_VM",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -17113,7 +21282,28 @@
     "last_date_call_was_made": "1/4/17",
     "call_priority": "Continue",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -17155,7 +21345,28 @@
     "call_priority": "Red_Priority",
     "DOM": "default",
     "dateAdded": "default",
-    "email_address": "default"
+    "email_address": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -17197,7 +21408,28 @@
     "last_date_call_was_made": "1/4/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -17239,7 +21471,28 @@
     "last_date_call_was_made": "1/4/17",
     "call_priority": "Grey",
     "DOM": "default",
-    "dateAdded": "default"
+    "dateAdded": "default",
+    "Bi_Weekly_P": false,
+    "Continue_P": false,
+    "CounterOffer": "-",
+    "Counter_P": false,
+    "Distressed_RequireWork_P": false,
+    "FollowUp_Call_Date": "Invalid date",
+    "Grey_P": false,
+    "Homework_Needed_P": false,
+    "Later_P": false,
+    "Later_Today_P": false,
+    "Left_VM_P": false,
+    "Motivated_Seller_P": false,
+    "Negotiation_Willing_P": false,
+    "No_Updated_P": false,
+    "Polite_P": false,
+    "Red_Priority_P": false,
+    "Send_Contract_P": false,
+    "Wrong_NO_P": false,
+    "calls_stack": [],
+    "propertyStatus": "default",
+    "__v": 1
   },
   {
     "_id": {
@@ -17288,9 +21541,7 @@
     "Continue_P": false,
     "CounterOffer": "default",
     "Counter_P": false,
-    "FollowUp_Call_Date": {
-      "$date": "2017-02-23T20:09:54.533Z"
-    },
+    "FollowUp_Call_Date": "2-23-17",
     "Grey_P": false,
     "Later_P": false,
     "Later_Today_P": false,
