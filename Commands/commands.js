@@ -148,4 +148,9 @@ db.properties.find({"Send_Contract_P" : true}).count();
 db.properties.find( { $where: "this.Left_VM_P == true" } );
 
 
+db.properties.find({ "FollowUp_Call_Date":  "2-21-17"}).pretty();
+
+
+
+
 
