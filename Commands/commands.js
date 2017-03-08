@@ -67,8 +67,12 @@ sub .zshrc
 sudo vim .bash_profile
 =====
 
+mongoimport --db mean-dev --collection reifax --jsonArray --file 
+
 
 alias ladd='mongoimport --db mean-dev --collection properties --jsonArray --file '
+
+
 alias laddd='mongoimport --db mean-dev --collection properties --drop --jsonArray --file '
 
 alias sadd='mongoimport --db mean --collection properties --jsonArray --file '
