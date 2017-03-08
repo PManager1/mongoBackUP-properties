@@ -67,6 +67,7 @@ sub .zshrc
 sudo vim .bash_profile
 =====
 
+
 mongoimport --db mean-dev --collection reifax --jsonArray --file 
 
 
@@ -89,6 +90,9 @@ http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-strin
 
 db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
 db.properties.findOne({"agent_name" : {$regex : ".*Noam.*"}});
+
+
+db.reifax.findOne({"agent_name" : {$regex : ".*Noam.*"}});
 
 
 db.properties.findOne({"_id" : {$regex : "588bdce69045439fdf1bb304"}});
