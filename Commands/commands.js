@@ -70,6 +70,15 @@ sudo vim .bash_profile
 
 mongoimport --db mean-dev --collection reifax --jsonArray --file 
 
+mongoimport --db mean-dev --collection articles --jsonArray --file 
+
+alias ladda='mongoimport --db mean-dev --collection articles --jsonArray --file' 
+alias ladd-da='mongoimport --db mean-dev --collection articles --drop --jsonArray --file '
+
+alias sadda='mongoimport --db mean --collection articles --jsonArray --file' 
+alias sadd-da='mongoimport --db mean --collection articles --drop --jsonArray --file '
+
+
 
 alias ladd='mongoimport --db mean-dev --collection properties --jsonArray --file '
 

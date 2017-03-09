@@ -74,7 +74,9 @@
       "last_date_email_open": "-",
       "no_of_emails_open": "-",
       "last_date_call_was_made": "-",
-      "call_priority": "-"
+      "call_priority": "-",
+      "statusalt": "By Owner",
+      "marketvalue": "200000.53"       
     },
     {
       "status": "Active",
