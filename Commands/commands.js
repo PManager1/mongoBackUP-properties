@@ -32,6 +32,8 @@ mongoimport --db mean-dev --collection users --jsonArray --file new_users.json
 mongoimport --db mean-dev --collection properties --drop --jsonArray --file 
 
 mongoimport --db mean-dev --collection properties --drop --jsonArray --file /home/ubuntu/MongoBackUP-properties/new_properties.json
+
+
 mongoimport --db mean-dev --collection users --drop --jsonArray --file new_users.json
 
 
@@ -40,8 +42,10 @@ mongoimport --db mean-dev --collection users --drop --jsonArray --file new_users
 #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT #  EXPORT 
 # PROD 
 
-mongoexport --jsonArray --db mean --collection properties  --out export/export-1-12-3.json
+mongoexport --jsonArray --db mean --collection properties  --out export/users-3-30.json
 
+
+mongoexport --jsonArray --db mean --collection users  --out export/users-3-30.json
 
 
 # LOCAL - MAC
@@ -98,7 +102,14 @@ Mongo search :
 http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-string
 
 db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
-db.properties.findOne({"agent_name" : {$regex : ".*Noam.*"}});
+
+
+
+db.properties.findOne({"agent_name" : {$regex : ".*Garza.*"}});
+
+// case insensitive 
+db.stuff.find( { foo: /^bar$/i } );
+
 
 
 db.reifax.findOne({"agent_name" : {$regex : ".*Noam.*"}});
@@ -118,6 +129,10 @@ db.properties.findOne({"Left_VM_P" : true});
 db.properties.findOne({"_id" : {$regex : "588bdce69045439fdf1bb304"}});
 
 db.properties.findOne({"_id" : "588bdce69045439fdf1bb304"});
+
+
+
+db.users.findOne({"_id" : "588bdce69045439fdf1bb304"});
 
 
 
@@ -166,6 +181,10 @@ db.properties.find( { $where: "this.Left_VM_P == true" } );
 
 
 db.properties.find({ "FollowUp_Call_Date":  "2-21-17"}).pretty();
+
+
+
+delete a user ?
 
 
 

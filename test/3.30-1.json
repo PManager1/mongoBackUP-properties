@@ -1,0 +1,87 @@
+[
+  {
+    "_id": {
+      "$oid": "5844625705d887428b99b511"
+    },
+    "salt": "/10i4T0V8nDTblD6Asry+w==",
+    "username": "seeduser",
+    "provider": "local",
+    "displayName": "User Local",
+    "created": {
+      "$date": "2016-12-04T18:37:11.979Z"
+    },
+    "roles": [
+      "user"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "gBMb8nNgB8ClyAzX/NmT6EEkUAwWLkbAXiYWcmI+T1inVxG5zeGVnQiGyaCwpApR/gGqp/34nQwQM9sQXv3ukw==",
+    "email": "user@localhost.com",
+    "lastName": "Local",
+    "firstName": "User",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5844625705d887428b99b510"
+    },
+    "salt": "zG038R0uH/fa6mB8g8f2jg==",
+    "username": "seedadmin",
+    "provider": "local",
+    "displayName": "Admin Local",
+    "created": {
+      "$date": "2016-12-04T18:37:11.974Z"
+    },
+    "roles": [
+      "user",
+      "admin"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "PHOzrwkSpZ3oDqxVSc6hM5OTgp4HNlaPmVJiL9aZdfilZ7Tso8KN7E15gpqcWIPkuvXNX1zt3YBUOrKZq2fj3w==",
+    "email": "admin@localhost.com",
+    "lastName": "Local",
+    "firstName": "Admin",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "584465aa3884b443006d295c"
+    },
+    "salt": "Ur6tK4wbOHzErMWL9qR/CA==",
+    "displayName": "test test",
+    "provider": "local",
+    "username": "test",
+    "created": {
+      "$date": "2016-12-04T18:51:22.586Z"
+    },
+    "roles": [
+      "user"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "mU3UI0v4rky7zUC0T/XT32/8TwG9/sY0+X9HBdGHinTsuBDtWo9SuFSFCG1INYcOMx8788qS46kru7ml88THPA==",
+    "email": "test@email.com",
+    "lastName": "test",
+    "firstName": "test",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5844729e501f764fc726b40b"
+    },
+    "salt": "mHik5kYFXzeJF4dPYTc5ew==",
+    "displayName": "homo homo",
+    "provider": "local",
+    "username": "homo",
+    "created": {
+      "$date": "2016-12-04T19:46:38.594Z"
+    },
+    "roles": [
+      "user"
+    ],
+    "profileImageURL": "modules/users/client/img/profile/default.png",
+    "password": "+s/OEk2BMPJxI6gF/TILIcz9OasuzydfSlemmNkP8dcCYAAKZN9rREdGvBqLordywYi9ISlifDScTQZRrYl2Mw==",
+    "email": "homo@gmail.com",
+    "lastName": "homo",
+    "firstName": "homo",
+    "__v": 0
+  }
+]
