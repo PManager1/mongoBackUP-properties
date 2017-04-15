@@ -104,6 +104,9 @@ http://stackoverflow.com/questions/10610131/checking-if-a-field-contains-a-strin
 db.properties.findOne({"comments" : {$regex : ".*homo.*"}});
 
 
+db.properties.findOne({"user_logged_email" : {$regex : ".*liberty@trust.com.*"}});
+
+
 
 db.properties.findOne({"agent_name" : {$regex : ".*Garza.*"}});
 
@@ -134,7 +137,7 @@ db.properties.findOne({"_id" : "588bdce69045439fdf1bb304"});
 
 db.users.findOne({"_id" : "588bdce69045439fdf1bb304"});
 
-
+db.users.find({"agent_name" : "red"});
 
 
 // db.properties.findOne({"address" : " 1721 SW 116TH WAY"});
@@ -185,6 +188,10 @@ db.properties.find({ "FollowUp_Call_Date":  "2-21-17"}).pretty();
 
 
 delete a user ?
+remove a user ?
+
+db.users.remove({"email" : {$regex : ".*libertytrustgroupllc@gmail.com.*"}});
+
 
 
 
